@@ -1,0 +1,1 @@
+Alterando o core para depois modificá-lo
